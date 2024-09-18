@@ -2,22 +2,29 @@
 
 Description
 
-Ce projet est une application de gestion des utilisateurs développée dans le cadre d'un projet scolaire. L'application permet de gérer une base de données d'utilisateurs avec diverses fonctionnalités telles que la création, la consultation, la modification et la suppression d'utilisateurs.
+This project is a user management application developed as part of a school project. The application allows the management of a user database with various features such as creating, viewing, updating, and deleting users.
 
-L'objectif est de faciliter la gestion des informations des utilisateurs, le tout en s'appuyant sur une base de données pour stocker les données de manière persistante.
+The goal is to simplify the management of user information, relying on a database to store data persistently. 
 
-Fonctionnalités
+Actually, the database i used was one given in school so it's no longer avalaible.
 
-Créer un nouvel utilisateur avec des informations détaillées (nom, email, date de naissance, etc.).
-Consulter la liste des utilisateurs enregistrés dans la base de données.
-Mettre à jour les informations d'un utilisateur spécifique.
-Supprimer un utilisateur existant.
-Rechercher des utilisateurs selon leur identifiant.
+Features
 
-Technologies utilisées
-Langage : java
-Interface graphique : JFRAME 
-Base de données : mySQL
+Create a new user with detailed information (name, email, date of birth, etc.).
+View the list of users stored in the database.
+Update the information of a specific user.
+Delete an existing user.
+Search for users by their ID.
+
+Technologies Used
+Language : java
+User interface: JFRAME 
+Database : mySQL
 
 
 ![image](https://github.com/user-attachments/assets/fb2ffbf7-ecb9-4a24-8d6c-fb6b48a1aaaa)
+
+## How to use the project 
+
+1. Clone the depository.
+2. Execute the file `IHM.java`.
